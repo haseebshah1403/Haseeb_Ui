@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner"/>
+  <img src="C:/Users/hasee/Downloads/Git_banner" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">
@@ -9,7 +9,7 @@ Hi 👋, I'm Haseeb
 </h1>
 
 <h3 align="center">
-🚀 AI/ML Engineer | Building Intelligent Systems | Engineering AI Solutions
+AI/ML Engineer | Building Intelligent Systems | Engineering AI Solutions
 </h3>
 
 <p align="center">
